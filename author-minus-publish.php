@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Author Minus Publish
-Plugin URI: http://github.com/lockergnome/author-minus-publish.php
+Plugin URI: http://github.com/eddieringle/wordpress-author-minus-publish/
 Description: Removes publish capability from Authors
 Version: 0.1
 Author: Eddie Ringle
